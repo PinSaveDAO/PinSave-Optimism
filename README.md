@@ -1,4 +1,4 @@
-# Pin Save - decentralized Pinterest
+# PinSave - decentralized Pinterest
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Pfed-prog/Dspyt-NFTs-EVM/master/packages/frontend/public/PinSaveL.png" alt="Size Limit CLI" width="738" >
@@ -18,7 +18,7 @@
 
 </div>
 
-Pin Save is a decentralized image, video sharing and content aggregation platform where community controls the platform.
+PinSave is a decentralized image, video sharing and content aggregation platform where community controls the platform.
 
 1. The decentralized feed reinforces the discovery of content and feedback.
 2. Decentralized Identity provides anonymity and data protection.
