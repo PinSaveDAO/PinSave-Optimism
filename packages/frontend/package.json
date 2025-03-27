@@ -16,7 +16,7 @@
     "@mantine/form": "^7.2.2",
     "@mantine/hooks": "^4.2.12",
     "@mantine/next": "^6.0.11",
-    "@mantine/notifications": "^4.2.12",
+    "@mantine/notifications": "^7.17.3",
     "@rainbow-me/rainbowkit": "2",
     "@synthetixio/synpress": "^4.0.3",
     "@tanstack/react-query": "5.62.8",
