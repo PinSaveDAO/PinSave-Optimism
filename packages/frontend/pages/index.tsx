@@ -54,7 +54,7 @@ export default Home;
 
 export const getStaticProps = async () => {
   const { address, abi } = getContractInfo();
-  const provider = new JsonRpcProvider("https://rpc.ankr.com/optimism");
+  const provider = new JsonRpcProvider("https://optimism-rpc.publicnode.com");
   const contract: Contract = new Contract(address, abi, provider);
 
   const posts: PostReduced[] = [];
